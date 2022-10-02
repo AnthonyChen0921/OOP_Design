@@ -1,0 +1,1 @@
+A toggle lever is what a user uses to push the switch to either On or Off mode to connect the electrical circuit in the wiring. The user can press the lever in both up and down operation directions to permanently change the status of the circuit if no further action is taken. The out layer of a lever is made of thermoplastic to prevent conducting electricity to the user.
